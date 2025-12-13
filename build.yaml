@@ -17,7 +17,7 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
+
 include:
   - board: nrfmicro&#x2F;nrf52840@1.3.0
     shield: cradio_left
